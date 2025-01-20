@@ -1,6 +1,6 @@
-# Destructuring Sexist Narratives: An Interdisciplinary Approach to Examine Online Sexism
+# Rethinking Sexist Narratives: An Interdisciplinary Approach to Examine Online Sexism
 
-This repository contains the codes for the master’s thesis project titled **“Destructuring Sexist Narratives: An Interdisciplinary Approach to Examine Online Sexism”**. The research integrates computational and qualitative methods to explore and analyze online sexism from multiple perspectives.
+This repository contains the codes for the master’s thesis project titled **“Rethinking Sexist Narratives: An Interdisciplinary Approach to Examine Online Sexism”**. The research integrates computational and qualitative methods to explore and analyze online sexism from multiple perspectives.
 
 ## Repository Structure
 
